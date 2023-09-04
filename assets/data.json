@@ -1,0 +1,315 @@
+{
+  "Primero Basico": {
+    "materias": {
+      "Historia": [
+        {
+          "titulo": "La Vida de los Dinosaurios",
+          "texto": "Los dinosaurios fueron criaturas increíbles que habitaron la Tierra hace millones de años...",
+          "audio": "assets/el_sol_travieso.mp3"
+        }
+      ],
+      "Ciencias Naturales": [
+        {
+          "titulo": "El Ciclo de la Vida de una Mariposa",
+          "texto": "Las mariposas pasan por una asombrosa transformación desde el huevo hasta la mariposa adulta...",
+          "audio": "audio_mariposa_primero.mp3"
+        }
+      ],
+      "Lenguaje": [
+        {
+          "titulo": "Las Aventuras del Pequeño Ratón",
+          "texto": "Había una vez un pequeño ratón llamado Lucas que vivía en un agujero en el bosque...",
+          "audio": "audio_ratón_primero.mp3"
+        }
+      ],
+      "Inglés": [
+        {
+          "titulo": "Hello, Friends!",
+          "texto": "In today's English class, we'll learn some basic greetings and introduce ourselves...",
+          "audio": "audio_hello_primero.mp3"
+        }
+      ],
+      "Tecnología": [
+        {
+          "titulo": "Descubriendo las Computadoras",
+          "texto": "En la clase de tecnología, exploraremos cómo funcionan las computadoras y cómo usarlas...",
+          "audio": "audio_tecnologia_primero.mp3"
+        }
+      ]
+    }
+  },
+  "Segundo Basico": {
+    "materias": {
+      "Historia": [
+        {
+          "titulo": "La Vida de los Dinosaurios",
+          "texto": "Los dinosaurios fueron criaturas increíbles que habitaron la Tierra hace millones de años...",
+          "audio": "el_so_travieso.mp3"
+        }
+      ],
+      "Ciencias Naturales": [
+        {
+          "titulo": "El Ciclo de la Vida de una Mariposa",
+          "texto": "Las mariposas pasan por una asombrosa transformación desde el huevo hasta la mariposa adulta...",
+          "audio": "audio_mariposa_primero.mp3"
+        }
+      ],
+      "Lenguaje": [
+        {
+          "titulo": "Las Aventuras del Pequeño Ratón",
+          "texto": "Había una vez un pequeño ratón llamado Lucas que vivía en un agujero en el bosque...",
+          "audio": "audio_ratón_primero.mp3"
+        }
+      ],
+      "Inglés": [
+        {
+          "titulo": "Hello, Friends!",
+          "texto": "In today's English class, we'll learn some basic greetings and introduce ourselves...",
+          "audio": "audio_hello_primero.mp3"
+        }
+      ],
+      "Tecnología": [
+        {
+          "titulo": "Descubriendo las Computadoras",
+          "texto": "En la clase de tecnología, exploraremos cómo funcionan las computadoras y cómo usarlas...",
+          "audio": "audio_tecnologia_primero.mp3"
+        }
+      ]
+    }
+  },
+  "Tercero Basico": {
+    "materias": {
+      "Historia": [
+        {
+          "titulo": "La Vida de los Dinosaurios",
+          "texto": "Los dinosaurios fueron criaturas increíbles que habitaron la Tierra hace millones de años...",
+          "audio": "el_so_travieso.mp3"
+        }
+      ],
+      "Ciencias Naturales": [
+        {
+          "titulo": "El Ciclo de la Vida de una Mariposa",
+          "texto": "Las mariposas pasan por una asombrosa transformación desde el huevo hasta la mariposa adulta...",
+          "audio": "audio_mariposa_primero.mp3"
+        }
+      ],
+      "Lenguaje": [
+        {
+          "titulo": "Las Aventuras del Pequeño Ratón",
+          "texto": "Había una vez un pequeño ratón llamado Lucas que vivía en un agujero en el bosque...",
+          "audio": "audio_ratón_primero.mp3"
+        }
+      ],
+      "Inglés": [
+        {
+          "titulo": "Hello, Friends!",
+          "texto": "In today's English class, we'll learn some basic greetings and introduce ourselves...",
+          "audio": "audio_hello_primero.mp3"
+        }
+      ],
+      "Tecnología": [
+        {
+          "titulo": "Descubriendo las Computadoras",
+          "texto": "En la clase de tecnología, exploraremos cómo funcionan las computadoras y cómo usarlas...",
+          "audio": "audio_tecnologia_primero.mp3"
+        }
+      ]
+    }
+  },
+  "Cuarto Basico": {
+    "materias": {
+      "Historia": [
+        {
+          "titulo": "La Vida de los Dinosaurios",
+          "texto": "Los dinosaurios fueron criaturas increíbles que habitaron la Tierra hace millones de años...",
+          "audio": "el_so_travieso.mp3"
+        }
+      ],
+      "Ciencias Naturales": [
+        {
+          "titulo": "El Ciclo de la Vida de una Mariposa",
+          "texto": "Las mariposas pasan por una asombrosa transformación desde el huevo hasta la mariposa adulta...",
+          "audio": "audio_mariposa_primero.mp3"
+        }
+      ],
+      "Lenguaje": [
+        {
+          "titulo": "Las Aventuras del Pequeño Ratón",
+          "texto": "Había una vez un pequeño ratón llamado Lucas que vivía en un agujero en el bosque...",
+          "audio": "audio_ratón_primero.mp3"
+        }
+      ],
+      "Inglés": [
+        {
+          "titulo": "Hello, Friends!",
+          "texto": "In today's English class, we'll learn some basic greetings and introduce ourselves...",
+          "audio": "audio_hello_primero.mp3"
+        }
+      ],
+      "Tecnología": [
+        {
+          "titulo": "Descubriendo las Computadoras",
+          "texto": "En la clase de tecnología, exploraremos cómo funcionan las computadoras y cómo usarlas...",
+          "audio": "audio_tecnologia_primero.mp3"
+        }
+      ]
+    }
+  },
+  "Quinto Basico": {
+    "materias": {
+      "Historia": [
+        {
+          "titulo": "La Vida de los Dinosaurios",
+          "texto": "Los dinosaurios fueron criaturas increíbles que habitaron la Tierra hace millones de años...",
+          "audio": "el_so_travieso.mp3"
+        }
+      ],
+      "Ciencias Naturales": [
+        {
+          "titulo": "El Ciclo de la Vida de una Mariposa",
+          "texto": "Las mariposas pasan por una asombrosa transformación desde el huevo hasta la mariposa adulta...",
+          "audio": "audio_mariposa_primero.mp3"
+        }
+      ],
+      "Lenguaje": [
+        {
+          "titulo": "Las Aventuras del Pequeño Ratón",
+          "texto": "Había una vez un pequeño ratón llamado Lucas que vivía en un agujero en el bosque...",
+          "audio": "audio_ratón_primero.mp3"
+        }
+      ],
+      "Inglés": [
+        {
+          "titulo": "Hello, Friends!",
+          "texto": "In today's English class, we'll learn some basic greetings and introduce ourselves...",
+          "audio": "audio_hello_primero.mp3"
+        }
+      ],
+      "Tecnología": [
+        {
+          "titulo": "Descubriendo las Computadoras",
+          "texto": "En la clase de tecnología, exploraremos cómo funcionan las computadoras y cómo usarlas...",
+          "audio": "audio_tecnologia_primero.mp3"
+        }
+      ]
+    }
+  },
+  "Sexto Basico": {
+    "materias": {
+      "Historia": [
+        {
+          "titulo": "La Vida de los Dinosaurios",
+          "texto": "Los dinosaurios fueron criaturas increíbles que habitaron la Tierra hace millones de años...",
+          "audio": "el_so_travieso.mp3"
+        }
+      ],
+      "Ciencias Naturales": [
+        {
+          "titulo": "El Ciclo de la Vida de una Mariposa",
+          "texto": "Las mariposas pasan por una asombrosa transformación desde el huevo hasta la mariposa adulta...",
+          "audio": "audio_mariposa_primero.mp3"
+        }
+      ],
+      "Lenguaje": [
+        {
+          "titulo": "Las Aventuras del Pequeño Ratón",
+          "texto": "Había una vez un pequeño ratón llamado Lucas que vivía en un agujero en el bosque...",
+          "audio": "audio_ratón_primero.mp3"
+        }
+      ],
+      "Inglés": [
+        {
+          "titulo": "Hello, Friends!",
+          "texto": "In today's English class, we'll learn some basic greetings and introduce ourselves...",
+          "audio": "audio_hello_primero.mp3"
+        }
+      ],
+      "Tecnología": [
+        {
+          "titulo": "Descubriendo las Computadoras",
+          "texto": "En la clase de tecnología, exploraremos cómo funcionan las computadoras y cómo usarlas...",
+          "audio": "audio_tecnologia_primero.mp3"
+        }
+      ]
+    }
+  },
+  "Septimo Basico": {
+    "materias": {
+      "Historia": [
+        {
+          "titulo": "La Vida de los Dinosaurios",
+          "texto": "Los dinosaurios fueron criaturas increíbles que habitaron la Tierra hace millones de años...",
+          "audio": "el_so_travieso.mp3"
+        }
+      ],
+      "Ciencias Naturales": [
+        {
+          "titulo": "El Ciclo de la Vida de una Mariposa",
+          "texto": "Las mariposas pasan por una asombrosa transformación desde el huevo hasta la mariposa adulta...",
+          "audio": "audio_mariposa_primero.mp3"
+        }
+      ],
+      "Lenguaje": [
+        {
+          "titulo": "Las Aventuras del Pequeño Ratón",
+          "texto": "Había una vez un pequeño ratón llamado Lucas que vivía en un agujero en el bosque...",
+          "audio": "audio_ratón_primero.mp3"
+        }
+      ],
+      "Inglés": [
+        {
+          "titulo": "Hello, Friends!",
+          "texto": "In today's English class, we'll learn some basic greetings and introduce ourselves...",
+          "audio": "audio_hello_primero.mp3"
+        }
+      ],
+      "Tecnología": [
+        {
+          "titulo": "Descubriendo las Computadoras",
+          "texto": "En la clase de tecnología, exploraremos cómo funcionan las computadoras y cómo usarlas...",
+          "audio": "audio_tecnologia_primero.mp3"
+        }
+      ]
+    }
+  },
+  "Octavo Basico": {
+    "materias": {
+      "Historia": [
+        {
+          "titulo": "La Vida de los Dinosaurios",
+          "texto": "Los dinosaurios fueron criaturas increíbles que habitaron la Tierra hace millones de años...",
+          "audio": "el_so_travieso.mp3"
+        }
+      ],
+      "Ciencias Naturales": [
+        {
+          "titulo": "El Ciclo de la Vida de una Mariposa",
+          "texto": "Las mariposas pasan por una asombrosa transformación desde el huevo hasta la mariposa adulta...",
+          "audio": "audio_mariposa_primero.mp3"
+        }
+      ],
+      "Lenguaje": [
+        {
+          "titulo": "Las Aventuras del Pequeño Ratón",
+          "texto": "Había una vez un pequeño ratón llamado Lucas que vivía en un agujero en el bosque...",
+          "audio": "audio_ratón_primero.mp3"
+        }
+      ],
+      "Inglés": [
+        {
+          "titulo": "Hello, Friends!",
+          "texto": "In today's English class, we'll learn some basic greetings and introduce ourselves...",
+          "audio": "audio_hello_primero.mp3"
+        }
+      ],
+      "Tecnología": [
+        {
+          "titulo": "Descubriendo las Computadoras",
+          "texto": "En la clase de tecnología, exploraremos cómo funcionan las computadoras y cómo usarlas...",
+          "audio": "audio_tecnologia_primero.mp3"
+        }
+      ]
+    }
+  }
+
+}

@@ -1,0 +1,180 @@
+{
+    "cursos": [
+      {
+        "nombre": "Historia",
+        "temas": [
+          {
+            "titulo": "Tema 1 - Antiguas civilizaciones",
+            "texto": "Texto sobre antiguas civilizaciones...",
+            "audio": "URL del audio 1",
+            "preguntas": [
+              "Pregunta 1 sobre antiguas civilizaciones...",
+              "Pregunta 2 sobre antiguas civilizaciones...",
+              "Pregunta 3 sobre antiguas civilizaciones..."
+            ]
+          },
+          {
+            "titulo": "Tema 2 - Edad Media",
+            "texto": "Texto sobre la Edad Media...",
+            "audio": "URL del audio 2",
+            "preguntas": [
+              "Pregunta 1 sobre la Edad Media...",
+              "Pregunta 2 sobre la Edad Media...",
+              "Pregunta 3 sobre la Edad Media..."
+            ]
+          },
+          {
+            "titulo": "Tema 3 - Revoluciones",
+            "texto": "Texto sobre revoluciones...",
+            "audio": "URL del audio 3",
+            "preguntas": [
+              "Pregunta 1 sobre revoluciones...",
+              "Pregunta 2 sobre revoluciones...",
+              "Pregunta 3 sobre revoluciones..."
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Ciencias Sociales",
+        "temas": [
+          {
+            "titulo": "Tema 1 - Sociedad y Cultura",
+            "texto": "Texto sobre sociedad y cultura...",
+            "audio": "URL del audio 1",
+            "preguntas": [
+              "Pregunta 1 sobre sociedad y cultura...",
+              "Pregunta 2 sobre sociedad y cultura...",
+              "Pregunta 3 sobre sociedad y cultura..."
+            ]
+          },
+          {
+            "titulo": "Tema 2 - Economía",
+            "texto": "Texto sobre economía...",
+            "audio": "URL del audio 2",
+            "preguntas": [
+              "Pregunta 1 sobre economía...",
+              "Pregunta 2 sobre economía...",
+              "Pregunta 3 sobre economía..."
+            ]
+          },
+          {
+            "titulo": "Tema 3 - Política",
+            "texto": "Texto sobre política...",
+            "audio": "URL del audio 3",
+            "preguntas": [
+              "Pregunta 1 sobre política...",
+              "Pregunta 2 sobre política...",
+              "Pregunta 3 sobre política..."
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Tecnología",
+        "temas": [
+          {
+            "titulo": "Tema 1 - Innovaciones actuales",
+            "texto": "Texto sobre innovaciones actuales...",
+            "audio": "URL del audio 1",
+            "preguntas": [
+              "Pregunta 1 sobre innovaciones actuales...",
+              "Pregunta 2 sobre innovaciones actuales...",
+              "Pregunta 3 sobre innovaciones actuales..."
+            ]
+          },
+          {
+            "titulo": "Tema 2 - Impacto en la sociedad",
+            "texto": "Texto sobre impacto en la sociedad...",
+            "audio": "URL del audio 2",
+            "preguntas": [
+              "Pregunta 1 sobre impacto en la sociedad...",
+              "Pregunta 2 sobre impacto en la sociedad...",
+              "Pregunta 3 sobre impacto en la sociedad..."
+            ]
+          },
+          {
+            "titulo": "Tema 3 - Futuras tendencias",
+            "texto": "Texto sobre futuras tendencias...",
+            "audio": "URL del audio 3",
+            "preguntas": [
+              "Pregunta 1 sobre futuras tendencias...",
+              "Pregunta 2 sobre futuras tendencias...",
+              "Pregunta 3 sobre futuras tendencias..."
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Inglés",
+        "temas": [
+          {
+            "titulo": "Tema 1 - Gramática avanzada",
+            "texto": "Texto sobre gramática avanzada...",
+            "audio": "URL del audio 1",
+            "preguntas": [
+              "Pregunta 1 sobre gramática avanzada...",
+              "Pregunta 2 sobre gramática avanzada...",
+              "Pregunta 3 sobre gramática avanzada..."
+            ]
+          },
+          {
+            "titulo": "Tema 2 - Vocabulario específico",
+            "texto": "Texto sobre vocabulario específico...",
+            "audio": "URL del audio 2",
+            "preguntas": [
+              "Pregunta 1 sobre vocabulario específico...",
+              "Pregunta 2 sobre vocabulario específico...",
+              "Pregunta 3 sobre vocabulario específico..."
+            ]
+          },
+          {
+            "titulo": "Tema 3 - Cultura angloparlante",
+            "texto": "Texto sobre cultura angloparlante...",
+            "audio": "URL del audio 3",
+            "preguntas": [
+              "Pregunta 1 sobre cultura angloparlante...",
+              "Pregunta 2 sobre cultura angloparlante...",
+              "Pregunta 3 sobre cultura angloparlante..."
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Lenguaje",
+        "temas": [
+          {
+            "titulo": "Tema 1 - Estructura lingüística",
+            "texto": "Texto sobre estructura lingüística...",
+            "audio": "URL del audio 1",
+            "preguntas": [
+              "Pregunta 1 sobre estructura lingüística...",
+              "Pregunta 2 sobre estructura lingüística...",
+              "Pregunta 3 sobre estructura lingüística..."
+            ]
+          },
+          {
+            "titulo": "Tema 2 - Comunicación efectiva",
+            "texto": "Texto sobre comunicación efectiva...",
+            "audio": "URL del audio 2",
+            "preguntas": [
+              "Pregunta 1 sobre comunicación efectiva...",
+              "Pregunta 2 sobre comunicación efectiva...",
+              "Pregunta 3 sobre comunicación efectiva..."
+            ]
+          },
+          {
+            "titulo": "Tema 3 - Estilos literarios",
+            "texto": "Texto sobre estilos literarios...",
+            "audio": "URL del audio 3",
+            "preguntas": [
+              "Pregunta 1 sobre estilos literarios...",
+              "Pregunta 2 sobre estilos literarios...",
+              "Pregunta 3 sobre estilos literarios..."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
